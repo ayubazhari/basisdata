@@ -1,0 +1,24 @@
+ASSALAMUALAIKUM WR. WB
+SELAMAT DATANG DI CHANNEL 'AYUB AZHARI'
+
+Disini saya akan mencoba mentutorial tentang membuat sebuah database baru.
+
+
+Pertama kita membuat sebuah database dengan nama 'latihan1'
+
+
+
+dengan nama tabel mahasiswa;
+
++--------+-------------+------+-----+---------+-------+
+| Field  | Type        | Null | Key | Default | Extra |
++--------+-------------+------+-----+---------+-------+
+| nim    | int(20)     | YES  |     | NULL    |       |
+| nama   | varchar(30) | YES  |     | NULL    |       |
+| alamat | text        | YES  |     | NULL    |       |
++--------+-------------+------+-----+---------+-------+
+
+TERIMAKASIH DEMIKIAN TUTORIAL INI KURANG DAN LEBIHNYA HARAP DI MAKLUMI
+KRITIK DAN SARANYA TULIS DI KOLOM KOMENTAR 
+JANGAN LUPA SUBSCRIBE, LIKE AND SHARE 
+
